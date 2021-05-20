@@ -15,7 +15,10 @@
 
 - teste Linhgit a 16
 
-- Changes from marco aurelio branch
+- Changes gitfrom marco aurelio branch
+- Today, we're gonna learn.
+
+- Changes from leandro's branch
 - Today, we're gonna learn.
 
 - Changes from leandro's branch
