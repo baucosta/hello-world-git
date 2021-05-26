@@ -27,3 +27,5 @@
 - Vascão Maior do Rio 
 
 - Outra alteracao de arquivo
+
+- corrigi um bug
