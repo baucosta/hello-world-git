@@ -18,6 +18,10 @@
     function potenciacao($a, $b) {
         return pow($a, $b);
     }
+
+    function raizQuadrada() {
+        return 10;
+    }
     
 
 
